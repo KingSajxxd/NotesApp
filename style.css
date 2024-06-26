@@ -19,7 +19,7 @@ header {
     justify-content: space-between;
     align-items: center;
     z-index: 99;
-    background-color: #954535;
+    background-color: #7393B3;
 }
 .imgmain{
     width: 300px;
@@ -157,6 +157,7 @@ color: black;
     margin: 45px 0;
     align-items: center;
     justify-content: center;
+    
 
     
 }
@@ -210,7 +211,7 @@ color: black;
     
 }
 #homepage{
-    background: url(18.jpg) no-repeat;
+    background: url(img/18.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -289,65 +290,6 @@ color: black;
     color: black;
 }
 
-
-.card-container {
-    display: flex;
-    flex-wrap: wrap; /* Allow cards to wrap to the next line */
-    gap: 150px; /* Add space between cards */
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-bottom: 250px;
-    justify-content: center;
-}
-
-/* Style for each card */
-.card {
-    background-color: #f9f9f9; /* Add a background color for the card */
-    padding: 20px; /* Add padding for spacing */
-}
-
-.img2{
-    width: 250px;
-    height: 250px;
-    border-radius: 15%;
-    margin-left: 25px;
-}
-
-.content-container {
-    display: flex;
-    align-items: center; /* Align items vertically in the center */
-    gap: 10px; /* Add space between items */
-    margin-bottom: 100px;
-    padding-bottom: 20PX;
-    padding-top: 20PX;
-    background-color: burlywood;
-
-}
-
-.content2 h3{
-    font-size: 1.5em;
-    letter-spacing: .03em;
-    margin-left: 25px;
-}
-
-.content2 p {
-    margin: 10px 30px 50px;
-}
-.content2 a {
-    color: black;
-    text-decoration: none;
-    border: 2px solid black;
-    border-radius: 40px;
-    font-weight: 500;
-    padding: 10px 40px;
-    transition: .5s;
-}
-
-.content2 a:hover {
-    background: green;
-}
-
-
 .sec-01{
     position: relative;
     display: flex;
@@ -355,7 +297,7 @@ color: black;
     align-items: center;
     padding: 80px 100px;
     color: #111222;
-    background-color: #E5AA70	;
+    background-color: #7393B3;
 }
 .container{
     position: relative;
@@ -368,6 +310,8 @@ color: black;
 .main-title{
     font-size: 4em;
     margin-bottom: 50px;
+    color: wheat;
+;
 }
 
 .content{
@@ -419,7 +363,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #954535;
+    background-color: black;
     color: white;
     text-align: center;
     z-index: 11111;
